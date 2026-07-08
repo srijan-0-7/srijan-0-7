@@ -27,13 +27,4 @@ always chasing first principles over abstractions.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-# 💻 Tech Stack:
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=srijan-0-7&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=srijan-0-7&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=srijan-0-7&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
