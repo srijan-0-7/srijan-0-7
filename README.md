@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Srijan Samanta
 =======================================================================================================================================
 
+<img width="498" height="336" alt="Image" src="https://github.com/user-attachments/assets/571ae97a-133d-4723-a367-65f6cbf4b58d" />
+
 Computational Physics/AI-ML/Web Development
 -------------------------------------------
 
