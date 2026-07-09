@@ -6,7 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computational Physics/AI-ML/Web Development
 -------------------------------------------
 
-Physics@NIT Agartala || DS@IITM
 <img src="https://github.com/user-attachments/assets/ffdcb0db-43ca-43b8-aa7a-fb033e6b3286" alt="NIT Agartala Logo" height="24" align="absmiddle"> Physics@NIT Agartala||DS@IITM <img src="https://github.com/user-attachments/assets/33c3ace8-a37e-479c-9258-bcee5615bf8d" alt="IIT Madras Logo" height="24" align="absmiddle">
 
 exploring and building the intersection of physics, mathematics and intelligent systems.
