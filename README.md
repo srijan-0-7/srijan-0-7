@@ -8,15 +8,15 @@ Computational Physics/AI-ML/Web Development
 
 Physics@NIT Agartala || DS@IITM
 
-currently exploring the intersection of physics, mathematics and intelligent systems.
+exploring and building the intersection of physics, mathematics and intelligent systems.
 
-building physics simulations, PINNs, monte carlo methods, AI applications and the occasional weird side project that sounded cool at 2am.
+studying and implementing physics simulations, PINNs, monte carlo methods, AI applications and the occasional weird side project that sounded cool at 2am.
 
 interested in scientific computing, quantitative finance, machine learning, deep learning and agentic AI.
 
-always chasing first principles over abstractions.
+chasing first principles over abstractions.
 
-* 🧠  I'm currently learning distributed AI systems, retrieval, reasoning and autonomous workflows alongside theoretical physics and applied mathematics
+* 🧠  currently learning distributed AI systems, retrieval, reasoning and autonomous workflows alongside theoretical physics and applied mathematics
 * 💬  Occasional vibe coder( my frontend sucks)
 
 <p align="left">
