@@ -8,7 +8,7 @@ Computational Physics/AI-ML/Web Development
 
 <img src="https://github.com/user-attachments/assets/12dccf26-1814-4fdb-a648-f23c02cbc609" alt="NIT Agartala Logo" height="48" align="absmiddle"> Physics@NIT Agartala || DS@IITM <img src="https://github.com/user-attachments/assets/61ed536d-c428-42b5-bd0d-5a3ed5edacea" alt="IIT Madras Logo" height="48" align="absmiddle">
 
-exploring and building the intersection of physics, mathematics and intelligent system.
+exploring and building the intersection of physics, mathematics and intelligent systems.
 
 studying and implementing physics simulations, PINNs, monte carlo methods, AI applications and the occasional weird side project that sounded cool at 2am.
 
